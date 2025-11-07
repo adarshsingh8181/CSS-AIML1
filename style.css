@@ -1,0 +1,20 @@
+p{                                      <-- element selector -->
+    color: blue;
+    background-color: red;
+    text-align: center;
+
+}
+.p{
+    color: green;
+    background-color: rgb(0, 255, 0);
+    text-align: right;
+
+}
+
+#jk{
+    font-size: 25px;
+
+
+
+
+}
